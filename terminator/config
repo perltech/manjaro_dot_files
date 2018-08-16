@@ -1,0 +1,43 @@
+[global_config]
+  borderless = True
+  enabled_plugins = TerminalShot, LaunchpadCodeURLHandler, APTURLHandler, LaunchpadBugURLHandler
+  extra_styling = False
+  hide_on_lose_focus = True
+  sticky = True
+  title_font = Schumacher Clean 11
+  title_hide_sizetext = True
+  title_transmit_bg_color = "#5b1628"
+  title_use_system_font = False
+  use_custom_url_handler = True
+[keybindings]
+[layouts]
+  [[default]]
+    [[[child1]]]
+      parent = window0
+      profile = default
+      type = Terminal
+    [[[window0]]]
+      parent = ""
+      type = Window
+[plugins]
+[profiles]
+  [[default]]
+    background_color = "#4a4543"
+    background_darkness = 0.9
+    background_type = transparent
+    cursor_color = "#aaaaaa"
+    font = TerminessTTF Nerd Font Medium 14
+    foreground_color = "#d6d5d4"
+    palette = "#2e3436:#c42039:#4e9a06:#ffb621:#3060cf:#ce5c00:#1fc4ac:#a2a39d:#555753:#f72644:#4e9a06:#f3de7c:#268bd2:#f57900:#25f7d8:#f9faf9"
+    scrollbar_position = hidden
+    show_titlebar = False
+    use_system_font = False
+    use_theme_colors = True
+  [[Riced Term Colors]]
+    background_color = "#4a4543"
+    background_darkness = 0.9
+    background_type = transparent
+    cursor_color = "#aaaaaa"
+    foreground_color = "#d6d5d4"
+    palette = "#471518:#cf0b1a:#bb6400:#f6ac40:#ed7287:#621f30:#b72e4c:#fff7f9:#4e1c1f:#fe0d20:#ff8a04:#ffc46e:#efa0ad:#632c3a:#b44d63:#f2f2f2"
+    show_titlebar = False

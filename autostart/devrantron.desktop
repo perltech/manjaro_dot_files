@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=devrantron
+Comment=devrantronstartup script
+Exec=/tmp/.mount_devranSL3AVG/app/devrantron
+StartupNotify=false
+Terminal=false

@@ -1,0 +1,3 @@
+[General]
+exclude filters=.hg,confstat,CMakeFiles,*.nvram,*~,po,*.loT,__pycache__,.histfile.*,ui_*.h,*.moc,CVS,*.elc,*.class,CTestTestfile.cmake,node_modules,*.ini,.git,.obj,.yarn,*.m4,*.lo,config.status,libtool,*.omf,*.rcore,*.a,*.pyo,*.csproj,lost+found,.uic,moc_*.cpp,*.orig,cmake_install.cmake,*.part,CMakeCache.txt,*.init,*.swap,*.db,.xsession-errors*,conftest,Makefile.am,*.jsc,*.so,_darcs,CMakeTmpQmake,node_packages,*.pc,*.vm*,*.aux,litmain.sh,.pch,.yarn-cache,*.po,.npm,autom4te,*.rej,CMakeTmp,confdefs.h,qrc_*.cpp,lzo,*.la,*.qrc,.svn,.moc,*.map,*.gmo,*.qmlc,*.o,*.tmp,.bzr,core-dumps,*.pyc,nbproject
+exclude filters version=3
